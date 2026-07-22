@@ -13,7 +13,7 @@
   ]
  },
  "INDUCCION INSTITUCIONAL - TALMA - INICIAL _ 2026": {
-  "n": 1353,
+  "n": 1376,
   "tiempos": [],
   "idcursos": [
    "1393"
@@ -54,7 +54,7 @@
   ]
  },
  "COMPROMISOS ETICOS - TALMA - RECURRENTE _ 2026": {
-  "n": 3123,
+  "n": 3124,
   "tiempos": [
    "0 h, 30 min, 0 seg"
   ],
@@ -69,7 +69,7 @@
   ]
  },
  "SEGURIDAD OPERACIONAL BASICO - TALMA - RECURRENTE _ 2026": {
-  "n": 1223,
+  "n": 1224,
   "tiempos": [
    "3 h, 0 min, 0 seg"
   ],
@@ -115,7 +115,7 @@
   ]
  },
  "DECLARACION DE CONOCIMIENTO DE REGLAMENTACION ETICA - CO - RECURRENTE _ 2026": {
-  "n": 2983,
+  "n": 2984,
   "tiempos": [
    "0 h, 30 min, 0 seg"
   ],
@@ -171,7 +171,7 @@
   ]
  },
  "RUTA SST - TALMA - RECURRENTE _ 2026": {
-  "n": 2787,
+  "n": 2788,
   "tiempos": [
    "2 h, 0 min, 0 seg"
   ],
@@ -546,7 +546,7 @@
   ]
  },
  "SISTEMA DE GESTION DE SEGURIDAD OPERACIONAL (SGSO) - LATAM - INICIAL _ 2026": {
-  "n": 441,
+  "n": 443,
   "tiempos": [
    "3 h, 0 min, 0 seg"
   ],
@@ -577,7 +577,7 @@
   ]
  },
  "RUTA SST - TALMA - INICIAL _ 2026": {
-  "n": 2859,
+  "n": 2882,
   "tiempos": [
    "6 h, 0 min, 0 seg"
   ],
@@ -607,7 +607,7 @@
   ]
  },
  "COMPROMISOS ETICOS - TALMA - INICIAL _ 2026": {
-  "n": 2909,
+  "n": 2932,
   "tiempos": [
    "0 h, 30 min, 0 seg"
   ],
@@ -623,7 +623,7 @@
   ]
  },
  "DECLARACION DE CONOCIMIENTO DE REGLAMENTACION ETICA - CO - INICIAL _ 2026": {
-  "n": 2906,
+  "n": 2929,
   "tiempos": [
    "0 h, 30 min, 0 seg"
   ],
@@ -639,7 +639,7 @@
   ]
  },
  "SAGRILAFT - TALMA - INICIAL _ 2026": {
-  "n": 2907,
+  "n": 2929,
   "tiempos": [
    "0 h, 30 min, 0 seg"
   ],
@@ -655,7 +655,7 @@
   ]
  },
  "SEGURIDAD DE LA INFORMACION - TALMA - INICIAL _ 2026": {
-  "n": 3013,
+  "n": 3036,
   "tiempos": [
    "1 h, 0 min, 0 seg"
   ],
@@ -672,7 +672,7 @@
   ]
  },
  "SEGURIDAD DE AVIACION CIVIL - TALMA - INICIAL _ 2026": {
-  "n": 2742,
+  "n": 2766,
   "tiempos": [
    "3 h, 0 min, 0 seg"
   ],
@@ -702,7 +702,7 @@
   ]
  },
  "INDUCCION TURNOS Y TRANSPORTE - TALMA - INICIAL_ 2026BOG": {
-  "n": 1884,
+  "n": 1906,
   "tiempos": [
    "0 h, 10 min, 0 seg"
   ],
@@ -717,31 +717,33 @@
   ]
  },
  "SOLICITUD DE REPUESTOS Y SERVICIOS - TALMA - INICIAL _ 2026": {
-  "n": 51,
+  "n": 52,
   "tiempos": [],
   "idcursos": [
    "1521"
   ],
   "instituciones": [
+   "LASA",
    "LASA SOCIEDAD DE APOYO AEROPORTUARIO",
    "SERVICIOS AEROPORTUARIOS INTEGRADOS SAI SAS",
    "TEMPORALES SAI"
   ]
  },
  "INTEGRACION DE CLOUDFEET - TALMA - INICIAL _ 2026": {
-  "n": 51,
+  "n": 52,
   "tiempos": [],
   "idcursos": [
    "1503"
   ],
   "instituciones": [
+   "LASA",
    "LASA SOCIEDAD DE APOYO AEROPORTUARIO",
    "SERVICIOS AEROPORTUARIOS INTEGRADOS SAI SAS",
    "TEMPORALES SAI"
   ]
  },
  "Inicial 2026 | AVSEC Nuestro enfoque de seguridad AVA | Operaciones Terrestres.": {
-  "n": 2594,
+  "n": 2618,
   "tiempos": [
    "2 h, 0 min, 0 seg"
   ],
@@ -757,7 +759,7 @@
   ]
  },
  "Inicial 2026 |Safety Management System (SMS)": {
-  "n": 2242,
+  "n": 2268,
   "tiempos": [
    "1 h, 30 min, 0 seg"
   ],
@@ -773,7 +775,7 @@
   ]
  },
  "Inicial 2026 | Sirviendo a viajeros en condición de discapacidad y Procedimiento para la aceptación y el almacenaje de sillas de ruedas": {
-  "n": 1867,
+  "n": 1894,
   "tiempos": [
    "2 h, 0 min, 0 seg"
   ],
@@ -788,7 +790,7 @@
   ]
  },
  "Inicial 2026 I Adoctrinamiento básico | AV Ecuador": {
-  "n": 1747,
+  "n": 1775,
   "tiempos": [
    "1 h, 0 min, 0 seg"
   ],
@@ -804,7 +806,7 @@
   ]
  },
  "PROCESOS EN RAMPA - WINGO - INICIAL _ 2026": {
-  "n": 193,
+  "n": 194,
   "tiempos": [
    "6 h, 0 min, 0 seg"
   ],
@@ -818,7 +820,7 @@
   ]
  },
  "ELEGANCIA EN EL SERVICIO - TALMA - INICIAL _ 2026": {
-  "n": 945,
+  "n": 967,
   "tiempos": [
    "1 h, 0 min, 0 seg"
   ],
@@ -863,7 +865,7 @@
   ]
  },
  "PCI VENTA SEGURA - LATAM - INICIAL _ 2026": {
-  "n": 288,
+  "n": 290,
   "tiempos": [
    "1 h, 0 min, 0 seg"
   ],
@@ -1001,7 +1003,7 @@
   ]
  },
  "SEGURIDAD AEROPORTUARIA AVSEC - LATAM - INICIAL _ 2026": {
-  "n": 457,
+  "n": 459,
   "tiempos": [
    "2 h, 0 min, 0 seg"
   ],
@@ -1158,7 +1160,7 @@
   ]
  },
  "SMS ESP - WINGO - INICIAL _ 2026": {
-  "n": 222,
+  "n": 226,
   "tiempos": [
    "0 h, 45 min, 0 seg"
   ],
@@ -1315,7 +1317,7 @@
   ]
  },
  "FACTORES HUMANOS - WINGO - INICIAL _ 2026": {
-  "n": 217,
+  "n": 220,
   "tiempos": [
    "1 h, 0 min, 0 seg"
   ],
@@ -1340,7 +1342,7 @@
   ]
  },
  "SEGURIDAD EN RAMPA OT - WINGO - INICIAL _ 2026": {
-  "n": 151,
+  "n": 152,
   "tiempos": [
    "2 h, 0 min, 0 seg"
   ],
@@ -1497,7 +1499,7 @@
   ]
  },
  "FAMILIARIZACION RAC - TALMA - INICIAL _ 2026": {
-  "n": 382,
+  "n": 386,
   "tiempos": [
    "2 h, 0 min, 0 seg"
   ],
@@ -1674,7 +1676,7 @@
   ]
  },
  "UNIDAD O DISPOSITIVO DE CARGA ULD - TALMA - INICIAL _ 2026BOG": {
-  "n": 1245,
+  "n": 1247,
   "tiempos": [
    "2 h, 0 min, 0 seg"
   ],
@@ -1701,7 +1703,7 @@
   ]
  },
  "OPERACION DE AIREADORES - TALMA - INICIAL _ 2026BOG": {
-  "n": 1229,
+  "n": 1232,
   "tiempos": [
    "0 h, 30 min, 0 seg"
   ],
@@ -1741,7 +1743,7 @@
   ]
  },
  "OPERACION EN CONDICIONES CLIMATICAS ADVERSAS Y NOCTURNAS - TALMA - INICIAL _ 2026BOG": {
-  "n": 1215,
+  "n": 1216,
   "tiempos": [
    "1 h, 0 min, 0 seg"
   ],
@@ -1767,7 +1769,7 @@
   ]
  },
  "AGENTE DE OPERACIONES TERRESTRES - TALMA - RECURRENTE _ 2026BOG": {
-  "n": 322,
+  "n": 325,
   "tiempos": [
    "3 h, 0 min, 0 seg"
   ],
@@ -1780,7 +1782,7 @@
   ]
  },
  "EQUIPO DE SOPORTE EN TIERRA - TALMA - INICIAL _ 2026BOG": {
-  "n": 1173,
+  "n": 1176,
   "tiempos": [
    "2 h, 0 min, 0 seg"
   ],
@@ -1821,7 +1823,7 @@
   ]
  },
  "PROCESOS MANEJO DE EQUIPAJES - TALMA - INICIAL _ 2026BOG": {
-  "n": 1140,
+  "n": 1143,
   "tiempos": [
    "1 h, 0 min, 0 seg"
   ],
@@ -1834,7 +1836,7 @@
   ]
  },
  "SEÑALES IATA - TALMA - INICIAL _ 2026BOG": {
-  "n": 1130,
+  "n": 1133,
   "tiempos": [
    "2 h, 0 min, 0 seg"
   ],
@@ -1859,7 +1861,7 @@
   ]
  },
  "MOVIMIENTO DE AERONAVES - TALMA - INICIAL _ 2026BOG": {
-  "n": 1119,
+  "n": 1124,
   "tiempos": [
    "2 h, 0 min, 0 seg"
   ],
@@ -1872,7 +1874,7 @@
   ]
  },
  "MANIPULACIÓN DE CARGA - TALMA - INICIAL _ 2026BOG": {
-  "n": 1104,
+  "n": 1107,
   "tiempos": [
    "2 h, 0 min, 0 seg"
   ],
@@ -1965,7 +1967,7 @@
   ]
  },
  "SEGURIDAD DE LA INFORMACION - LATAM - INICIAL _ 2026": {
-  "n": 274,
+  "n": 276,
   "tiempos": [
    "1 h, 0 min, 0 seg"
   ],
@@ -1981,7 +1983,7 @@
   ]
  },
  "PROCEDIMIENTOS FINANCIEROS - LATAM - INICIAL _ 2026": {
-  "n": 262,
+  "n": 264,
   "tiempos": [
    "1 h, 0 min, 0 seg"
   ],
@@ -2090,7 +2092,7 @@
   ]
  },
  "ATENCION A PASAJEROS - WINGO - INICIAL _ 2026": {
-  "n": 73,
+  "n": 76,
   "tiempos": [
    "12 h, 0 min, 0 seg"
   ],
@@ -2116,7 +2118,7 @@
   ]
  },
  "DESPACHO CENTRALIZADO - WINGO - INICIAL _ 2026": {
-  "n": 63,
+  "n": 64,
   "tiempos": [
    "2 h, 0 min, 0 seg"
   ],
@@ -2129,7 +2131,7 @@
   ]
  },
  "ER 101 - WINGO - INICIAL _ 2026": {
-  "n": 61,
+  "n": 63,
   "tiempos": [
    "1 h, 0 min, 0 seg"
   ],
@@ -2141,7 +2143,7 @@
   ]
  },
  "ER 201 - WINGO - INICIAL _ 2026": {
-  "n": 61,
+  "n": 63,
   "tiempos": [
    "2 h, 0 min, 0 seg"
   ],
@@ -2153,7 +2155,7 @@
   ]
  },
  "SEGURIDAD EN RAMPA PAX – WINGO – INICIAL _ 2026": {
-  "n": 61,
+  "n": 63,
   "tiempos": [
    "1 h, 0 min, 0 seg"
   ],
@@ -2165,7 +2167,7 @@
   ]
  },
  "MODELO DE EXPERIENCIA - WINGO - INICIAL _ 2026": {
-  "n": 61,
+  "n": 63,
   "tiempos": [
    "3 h, 0 min, 0 seg"
   ],
@@ -2239,7 +2241,7 @@
   ]
  },
  "PRE - JETSMART - RECURRENTE _ 2026": {
-  "n": 593,
+  "n": 594,
   "tiempos": [
    "1 h, 0 min, 0 seg"
   ],
@@ -2263,7 +2265,7 @@
   ]
  },
  "EVALUACION CONDUCTOR - INICIAL _ 2026BOG": {
-  "n": 205,
+  "n": 207,
   "tiempos": [],
   "idcursos": [
    "1547"
@@ -2311,7 +2313,7 @@
   ]
  },
  "RIESGO QUIMICO - TALMA - INICIAL _ 2026": {
-  "n": 1373,
+  "n": 1395,
   "tiempos": [
    "0 h, 45 min, 0 seg"
   ],
@@ -2327,7 +2329,7 @@
   ]
  },
  "MERCANCIAS PELIGROSAS BASICO 8 HORAS - TALMA - INICIAL _ 2026V2": {
-  "n": 2792,
+  "n": 2793,
   "tiempos": [],
   "idcursos": [
    "1572"
@@ -2437,7 +2439,7 @@
   ]
  },
  "FACTORES HUMANOS MANTTO - TALMA - INICIAL _ 2026": {
-  "n": 11,
+  "n": 12,
   "tiempos": [
    "2 h, 0 min, 0 seg"
   ],
@@ -2445,6 +2447,7 @@
    "1398"
   ],
   "instituciones": [
+   "LASA",
    "LASA SOCIEDAD DE APOYO AEROPORTUARIO"
   ]
  },
@@ -2671,7 +2674,7 @@
   ]
  },
  "SEGURIDAD DE LA INFORMACION - TALMA - RECURRENTE _ 2026": {
-  "n": 2727,
+  "n": 2728,
   "tiempos": [
    "1 h, 0 min, 0 seg"
   ],
@@ -2696,7 +2699,7 @@
   ]
  },
  "EVALUACION OPERADOR DE EQUIPOS - INICIAL _ 2026BOG": {
-  "n": 14,
+  "n": 17,
   "tiempos": [],
   "idcursos": [
    "1593"
@@ -2776,7 +2779,7 @@
   ]
  },
  "COMUNICACION TIERRA CABINA - TALMA INICIAL _ 2026": {
-  "n": 722,
+  "n": 725,
   "tiempos": [
    "4 h, 0 min, 0 seg"
   ],
@@ -2839,7 +2842,7 @@
   ]
  },
  "ATRIBUTOS DE SERVICIO PAX - TALMA - INICIAL _ 2026": {
-  "n": 1791,
+  "n": 1813,
   "tiempos": [],
   "idcursos": [
    "1599"
@@ -2854,7 +2857,7 @@
   ]
  },
  "COMPLEMENTO ATPDR - AIR CANADA - INICIAL _ 2026": {
-  "n": 500,
+  "n": 524,
   "tiempos": [
    "0 h, 30 min, 0 seg"
   ],
@@ -2904,7 +2907,7 @@
   ]
  },
  "OPERACION BASICA EN RAMPA - TALMA - INICIAL _ 2026V2": {
-  "n": 1090,
+  "n": 1099,
   "tiempos": [
    "16 h, 0 min, 0 seg"
   ],
@@ -3036,7 +3039,7 @@
   ]
  },
  "MANUAL DE OPERACIONES AEROPORTUARIAS - TALMA - INICIAL _ 2026BOGV2": {
-  "n": 1085,
+  "n": 1113,
   "tiempos": [
    "1 h, 0 min, 0 seg"
   ],
@@ -3104,7 +3107,7 @@
   ]
  },
  "SEGURIDAD OPERACIONAL BASICO - TALMA - INICIAL _ 2026V2": {
-  "n": 526,
+  "n": 549,
   "tiempos": [
    "3 h, 0 min, 0 seg"
   ],
@@ -3147,7 +3150,7 @@
   ]
  },
  "PLANIFICACIÓN Y HOJA DE CARGA (LOADSHEET) - TALMA - INICIAL _ 2026BOG": {
-  "n": 77,
+  "n": 79,
   "tiempos": [
    "1 h, 0 min, 0 seg"
   ],
@@ -3160,7 +3163,7 @@
   ]
  },
  "DOCUMENTACIÓN Y MENSAJERÍA - TALMA - INICIAL _ 2026BOG": {
-  "n": 74,
+  "n": 77,
   "tiempos": [
    "1 h, 0 min, 0 seg"
   ],
@@ -3173,7 +3176,7 @@
   ]
  },
  "MANUAL DE OPERACIONES AEROPORTUARIAS - TALMA - INICIAL _ 2026V2": {
-  "n": 225,
+  "n": 220,
   "tiempos": [
    "1 h, 0 min, 0 seg"
   ],
@@ -3215,7 +3218,7 @@
   ]
  },
  "ASISTENCIA A PASAJEROS CON NECESIDADES ESPECIALES - TALMA - INICIAL _ 2026V2": {
-  "n": 144,
+  "n": 145,
   "tiempos": [],
   "idcursos": [
    "1643"
@@ -3240,7 +3243,7 @@
   ]
  },
  "SEGURIDAD OPERACIONAL BASICO - TALMA - RECURRENTE _ 2026V2": {
-  "n": 186,
+  "n": 187,
   "tiempos": [
    "3 h, 0 min, 0 seg"
   ],
@@ -3395,7 +3398,7 @@
   ]
  },
  "KIT DE TRANSFERENCIA - TALMA - INICIAL _ 2026": {
-  "n": 1660,
+  "n": 1564,
   "tiempos": [],
   "idcursos": [
    "1664"
@@ -3433,7 +3436,7 @@
   ]
  },
  "SMS - JETSMART - RECURRENTE _ 2026V2": {
-  "n": 60,
+  "n": 61,
   "tiempos": [
    "1 h, 0 min, 0 seg"
   ],
@@ -3470,7 +3473,7 @@
   ]
  },
  "KIT DE TRANSFERENCIA - TALMA - INICIAL _ 2026V2": {
-  "n": 94,
+  "n": 96,
   "tiempos": [],
   "idcursos": [
    "1668"
